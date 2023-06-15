@@ -12,15 +12,15 @@ function App() {
         <Location />
         <Temperature />
         <OtherInfo />
-        <section className="flex justify-evenly items-center bg-slate-700/25 backdrop-saturate-50rounded-lg backdrop-opacity-90 backdrop-blur-md backdrop-saturate-100 container mx-auto p-2 sticky bottom-0 text-xl text-slate-200">
+        <section className="flex justify-evenly items-center bg-slate-900 backdrop-saturate-50rounded-lg backdrop-opacity-90 backdrop-blur-md backdrop-saturate-100 container mx-auto p-4 sticky bottom-0 text-xl text-slate-200">
           <p>
             Made with{" "}
             <span className="animate-pulse text-red-700 text-2xl px-2">❤</span>
             <a href="https://github.com/sansk" className="">
-              SK
+              - SK
             </a>
           </p>
-          <p className="flex-center-all">
+          <p className="flex justify-evenly items-center">
             Source Code:{" "}
             <a
               target="_blank"
@@ -29,7 +29,7 @@ function App() {
               <BsGithub />
             </a>
           </p>
-          <p className="flex-center-all">
+          <p className="flex justify-evenly items-center">
             Another Version:{" "}
             <a
               target="_blank"
