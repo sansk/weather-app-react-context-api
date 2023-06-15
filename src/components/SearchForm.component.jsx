@@ -18,7 +18,7 @@ export const SearchForm = () => {
       <section className="card-display flex-center-all ">
         <form className="w-9/12 flex-auto flex items-center justify-center">
           <input
-            className="w-7/12 p-4 rounded-l-lg tracking-wider border-white border-2 focus:outline-0 focus:border-blue-500 focus:border-2 text-xl"
+            className="w-7/12 p-4 rounded-l-lg tracking-wider border-white border-2 focus:outline-0 focus:border-blue-500 focus:border-2 text-xl text-slate-700"
             type="search"
             name="search"
             id="search"

@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-   <a href="https://sk-weather-app-react.netlify.app/">
+   <a href="https://sk-weather-app-contextapi.netlify.app">
       Demo
     </a>
   </h3>
